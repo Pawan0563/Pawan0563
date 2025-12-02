@@ -4,11 +4,11 @@ Hi 👋 My name is Pawan Kumar Singh
 ![Intro](./download.svg)
 
 
-Full Stack Developer 💻
+ Java Full Stack Developer 💻
 -----------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [pawannvs563@gmail.com](mailto:pawannvs563@gmail.com)
+* ✉️  You can contact me at [pawannvs563@gmail.com](mailto:work.pawan0369@gmail.com)
 * 🧠  I'm learning Web Development with Different Stacks.
 * 🤝  I'm open to collaborating on Interesting Full Stack Projects .
 * ⚡  Love For Programming .
